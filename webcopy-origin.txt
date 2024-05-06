@@ -1,0 +1,460 @@
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/favv-re.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\favv-re.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/form/intlTelInput-jquery.min.js
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\form\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/form/intlTelInput.min.css
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\form\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/form/intlTelInput.min.js
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\form\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/form/utils.js
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\form\utils.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/icons8-consulting-100.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\icons8-consulting-100.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min2f56.css?ver=3.10.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min2f56.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min2f56.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min2f56.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min2f56.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min2f56.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/css/frontend-lite.min12f9.css?ver=3.10.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\css\frontend-lite.min12f9.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/css/modules/lazyload/frontend.min12f9.css?ver=3.10.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\css\modules\lazyload\frontend.min12f9.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/js/frontend-modules.min12f9.js?ver=3.10.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\js\frontend-modules.min12f9.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/js/frontend.min12f9.js?ver=3.10.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\js\frontend.min12f9.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/js/webpack.runtime.min12f9.js?ver=3.10.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\js\webpack.runtime.min12f9.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min3958.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min05da.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/style.css?v=3
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\style.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\themes\hello-elementor\assets\js\hello-frontend.min8a54.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\themes\hello-elementor\style.minc141.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/themes/hello-elementor/theme.minc141.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\themes\hello-elementor\theme.minc141.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/CJ-2.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\CJ-2.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/FAQ.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\FAQ.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/img-bg.svg
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\img-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/img2-bg.svg
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\img2-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/take-action-img.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\take-action-img.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/top-investigation-tools-1.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\top-investigation-tools-1.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/top-investigation-tools.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\top-investigation-tools.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/2022/08/video-overlay.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\2022\08\video-overlay.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/globaldb9a.css?ver=1673525078
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\globaldb9a.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-1171b085.css?ver=1673525121
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-1171b085.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-117553b5.css?ver=1679491837
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-117553b5.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-1500f515.css?ver=1677673400
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-1500f515.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-15289c96.css?ver=1679491624
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-15289c96.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-4db9a.css?ver=1673525078
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-4db9a.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/css/post-668a1b8.css?ver=1673525080
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\css\post-668a1b8.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/thumbs/00_about-1-ptq7bkih5o5shybl0pqrfsglp2gnwoldw3hz6hsiwk.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\thumbs\00_about-1-ptq7bkih5o5shybl0pqrfsglp2gnwoldw3hz6hsiwk.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/thumbs/01_about-1-ptq7k6p7szyex9t0pftnam6pq7zsgsst2qs7jt0lv8.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\thumbs\01_about-1-ptq7k6p7szyex9t0pftnam6pq7zsgsst2qs7jt0lv8.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-content/uploads/elementor/thumbs/CJ-2-ptq40ui86h66eni4rqrv7icu8pojl3e3t17bk81dis.png
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-content\uploads\elementor\thumbs\CJ-2-ptq40ui86h66eni4rqrv7icu8pojl3e3t17bk81dis.png
+Content Type: image/png
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/css/classic-themes.minae48.css?ver=6.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\css\classic-themes.minae48.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/css/dist/block-library/style.minae48.css?ver=6.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\css\dist\block-library\style.minae48.css
+Content Type: text/css
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/dist/hooks.min6c65.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\dist\hooks.min6c65.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/dist/i18n.mine57b.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\dist\i18n.mine57b.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\dist\vendor\regenerator-runtime.min8fa4.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\dist\vendor\wp-polyfill-inert.min0226.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\dist\vendor\wp-polyfill.min2c7c.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/jquery/jquery-migrate.min6b00.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\jquery\jquery-migrate.min6b00.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/lander/recovery---claim-justice_1708002416/wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\lander\recovery---claim-justice_1708002416\wp-includes\js\jquery\ui\core.min3f14.js
+Content Type: application/javascript
+
+Uri: https://diamond-charge.com/VxPLhkGY?sub_id_12=952845536172733&creo=162&log=2637_1&adset=4&sub_id_13=11&fbclid=PAAaaF91HNWGcXZW6EZmp7oMyRvlFDAZ0hAlEiZONS7nyoUH87y9_AT61BXxI_aem_AT7UOD5cPMevzOZFfSjnwb1vDYa25Igx8ulRC6gHGJzshUGf_7Ld6Rgu13Vo6kUXj2LcdxKwhzJN34FPNEIDuZRE
+File Name: C:\Downloaded Web Sites\diamond-charge.com\VxPLhkGY.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Sen:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Epilogue:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2
+File Name: C:\Downloaded Web Sites\diamond-charge.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_WogA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_WogA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSC5_R.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSC5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sen/v9/6xK0dSxYI9_dkN18-vZKK2EISBi5L4nAkA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\sen\v9\6xK0dSxYI9_dkN18-vZKK2EISBi5L4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sen/v9/6xK0dSxYI9_dkN18-vZKK2EISCq5L4nAkA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\sen\v9\6xK0dSxYI9_dkN18-vZKK2EISCq5L4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sen/v9/6xK0dSxYI9_dkN18-vZKK2EISKq-L4nAkA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\sen\v9\6xK0dSxYI9_dkN18-vZKK2EISKq-L4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sen/v9/6xK0dSxYI9_dkN18-vZKK2EISM2-L4nAkA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\sen\v9\6xK0dSxYI9_dkN18-vZKK2EISM2-L4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sen/v9/6xK0dSxYI9_dkN18-vZKK2EISPS-L4nAkA.ttf
+File Name: C:\Downloaded Web Sites\diamond-charge.com\s\sen\v9\6xK0dSxYI9_dkN18-vZKK2EISPS-L4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/axios@1.6.8/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\diamond-charge.com\axios@1.6.8\dist\axios.min.js
+Content Type: application/javascript
+
